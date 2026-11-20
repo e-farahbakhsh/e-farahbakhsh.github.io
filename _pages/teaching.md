@@ -25,8 +25,8 @@ Lecturer · Research Institute for Earth Sciences, Tehran · 2018–2019
 
 ### Workshops
 
-- *An Introduction to Geological Remote Sensing and Mineral Prospectivity Mapping* – workshop series, Geological Survey of Iran (2016–2018)
-- *Civilian Applications of Unmanned Aerial Systems* – University of Tehran (2014)
+- _An Introduction to Geological Remote Sensing and Mineral Prospectivity Mapping_ – workshop series, Geological Survey of Iran (2016–2018)
+- _Civilian Applications of Unmanned Aerial Systems_ – University of Tehran (2014)
 
 ### Supervision
 

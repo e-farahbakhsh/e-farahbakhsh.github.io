@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Guest editing a special issue of *Applied Computing and Geosciences* (Elsevier) on AI in mineral exploration and prospectivity mapping, with a focus on critical minerals.
+Guest editing a special issue of _Applied Computing and Geosciences_ (Elsevier) on AI in mineral exploration and prospectivity mapping, with a focus on critical minerals.
