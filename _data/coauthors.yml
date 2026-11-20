@@ -1,0 +1,4 @@
+# Map co-author last names to profile links, e.g.
+# "muller":
+#   - firstname: ["R. D.", "Dietmar", "R. Dietmar"]
+#     url: https://www.earthbyte.org/

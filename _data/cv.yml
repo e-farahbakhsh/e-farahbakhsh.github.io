@@ -1,0 +1,167 @@
+cv:
+  name: Ehsan Farahbakhsh
+  label: Research Fellow, Research School of Earth Sciences, The Australian National University
+  email: Ehsan.Farahbakhsh@anu.edu.au
+  location: Canberra, Australia
+  image: ""
+  summary: Machine learning and data science for mineral exploration, with a focus on spatio-temporal prospectivity modelling that links plate tectonics and geodynamics to where and when ore deposits form.
+
+  social_networks:
+    - network: GitHub
+      username: e-farahbakhsh
+    - network: LinkedIn
+      username: ehsanfarahbakhsh
+    - network: ORCID
+      username: 0000-0003-2618-2458
+
+  sections:
+    Experience:
+      - company: Research School of Earth Sciences, The Australian National University
+        position: Research Fellow
+        location: Canberra, Australia
+        start_date: 2026
+        highlights:
+          - Developing a machine learning framework for spatio-temporal mineral prospectivity modelling in the GEM-Cu (Geodynamic Environments for Mineralisation of Copper) industry project with Rio Tinto, The University of British Columbia and Imperial College London (supervisor Prof. D. Rhodri Davies).
+
+      - company: EarthByte Group, School of Geosciences, The University of Sydney
+        position: Research Associate
+        location: Sydney, Australia
+        start_date: 2021
+        end_date: 2026
+        highlights:
+          - Developed machine learning frameworks for 2D and spatio-temporal prospectivity modelling in the PLATO and STELLAR industry projects with Datarock, Lithodat, BHP and Curtin University (supervisor Prof. R. Dietmar Müller).
+          - Developed computer vision frameworks for remote sensing-based mapping of mineralisation-related geological features.
+          - Lecturer of GEOL3888 (Earth Systems Research Project) and SCDL1991 (The Dalyell Showcase).
+          - Supervised or co-supervised postgraduate students, research assistants and interns.
+
+      - company: Industry
+        position: Exploration geology and remote sensing roles
+        location: Iran
+        start_date: 2011
+        end_date: 2021
+        highlights:
+          - Part-time Exploration Geologist, Karen GeoComputation Company (2016–2021)
+          - Remote Sensing Specialist, Geological Survey of Iran (2015–2016)
+          - Supervising and consulting engineering roles in mining (2011–2015)
+
+    Education:
+      - institution: Amirkabir University of Technology (Tehran Polytechnic)
+        location: Tehran, Iran
+        area: Mining Engineering – Mineral Exploration
+        studyType: PhD
+        start_date: 2014
+        end_date: 2020
+        highlights:
+          - "Thesis: Developing a novel method for three-dimensional modelling of ore deposits by integrating data layers"
+          - "Supervisors: Prof. Ardeshir Hezarkhani and Dr Taymour Eslamkish; advisers: A/Prof. Abbas Bahroudi and Dr Rohitash Chandra"
+
+      - institution: University of Tehran
+        location: Tehran, Iran
+        area: Mining Engineering – Mineral Exploration
+        studyType: MSc
+        start_date: 2012
+        end_date: 2014
+        highlights:
+          - "Thesis: Intelligent integration methods for identifying links between deep bedrock structures and hydrothermal mineralisation (Chahar-Gonbad area, Kerman)"
+
+      - institution: Isfahan University of Technology
+        location: Isfahan, Iran
+        area: Mining Engineering – Mineral Exploration
+        studyType: BSc
+        start_date: 2007
+        end_date: 2012
+        highlights:
+          - "Thesis: Correlating inverse models of IP-resistivity and magnetic data in the Darezereshk porphyry copper deposit (Outstanding Undergraduate Thesis Award)"
+
+    Awards:
+      - title: Early Achievement Award
+        date: 2025
+        awarder: Australian Society of Exploration Geophysicists (ASEG)
+
+      - title: Outstanding Paper Award for Young Scientists
+        date: 2025
+        awarder: Committee on Space Research (COSPAR)
+
+      - title: 34th International Geological Congress Travel Grant (A$4,500)
+        date: 2025
+        awarder: Australian Geoscience Council and Australian Academy of Science
+
+      - title: Distinguished Talent, Global Talent Independent Program
+        date: 2021
+        awarder: Australian Government
+
+      - title: Research grants (2015–2021, total about A$56,000)
+        date: 2021
+        awarder: Iranian Ministry of Science, Research and Technology; Vice-Presidency for Science and Technology; National Science and Technology Support Fund
+        summary: Projects on mobile metal ion geochemistry, gemstone mapping, drone-based mine mapping, alkali playa mapping and automated lineament extraction.
+
+      - title: Research and Scholarly Activities Student Award
+        date: 2017
+        awarder: Iran's National Elites Foundation
+
+      - title: Outstanding Undergraduate Thesis Award
+        date: 2012
+        awarder: Isfahan University of Technology
+
+    Teaching:
+      - bullet: "**Lecturer**, SCDL1991 – AI-Driven Mineral Discovery for the Energy Transition, The University of Sydney (2025)"
+      - bullet: "**Lecturer**, GEOL3888 – Earth Systems Research Project, The University of Sydney (2022–2025)"
+      - bullet: "**Lecturer**, Exploratory Data Analysis; Geological Remote Sensing, Yazd University (2019–2021)"
+      - bullet: "**Lecturer**, Advanced Geological Remote Sensing (postgraduate), Research Institute for Earth Sciences, Tehran (2018–2019)"
+      - bullet: "**Workshop series**, Geological Remote Sensing and Mineral Prospectivity Mapping, Geological Survey of Iran (2016–2018)"
+
+    Supervision:
+      - label: Postdoctoral
+        details: "J. Zhou (visiting, University of Sydney, 2023–2026)"
+      - label: PhD
+        details: "E. Heidari (University of Sydney, 2024–present); H. Shirmard (University of Sydney, 2024–present); Z. Luo (visiting, University of Sydney, 2023–2025)"
+      - label: Master's and Honours
+        details: "C. Wang, R. Wen (UNSW); N. P. T. Wake (Honours, University of Sydney); M. Maleki (University of Tehran); M. Safari (Amirkabir University of Technology); F. Mami Khalfani, S. Barak (University of Tehran)"
+      - label: Research assistants and interns
+        details: "14 research assistants and interns at the University of Sydney, JECRC University, IIIT Hyderabad and IIT Kanpur, Jammu and Guwahati"
+
+    Selected Talks:
+      - bullet: "Invited, Rio Tinto Centre for Future Materials, London, UK (2026)"
+      - bullet: "Keynote, 4th Mineral Prospectivity and Exploration Targeting (MinProXT) webinar (2025)"
+      - bullet: "Invited, Fleet Space Technologies, Orange, Australia (2024)"
+      - bullet: "Invited, Schlumberger, Milan, Italy (2023)"
+      - bullet: "Invited, Fiji National University, Suva, Fiji (2023)"
+      - bullet: "Invited, CSIRO, Perth, Australia (2022)"
+      - bullet: "Invited, Australian Society of Exploration Geophysicists, Sydney, Australia (2022)"
+
+    Professional Service:
+      - bullet: "**Guest Editor**, *Applied Computing and Geosciences* (Elsevier), special issue on AI in mineral exploration and prospectivity mapping (2026–present)"
+      - bullet: "**General Committee Member**, Australian Society of Exploration Geophysicists, NSW Branch (2024–present)"
+      - bullet: "**Guest Editor**, three special issues in *Minerals* and *Remote Sensing* (MDPI) (2020–2023)"
+      - bullet: "**Co-Chair**, invited session on machine learning for remote sensing data processing, KES 2022, Verona, Italy"
+      - bullet: "**Editorial Board**, *Journal of Autonomous Intelligence* (2018)"
+      - bullet: "**Reviewer** for journals including *Nature Communications*, *Remote Sensing of Environment*, *Ore Geology Reviews*, *Geoscience Frontiers*, *Journal of Geochemical Exploration* and *Scientific Reports*"
+
+    Memberships:
+      - bullet: "European Geosciences Union; Society of Economic Geologists; Geological Society of Australia; Australian Society of Exploration Geophysicists; International Association for Mathematical Geosciences"
+
+    Skills:
+      - name: Programming
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: "Python, MATLAB (advanced); R (intermediate); C++ (novice)"
+
+      - name: Geoscience software
+        level: Advanced
+        icon: fa-solid fa-earth-oceania
+        keywords: "GPlates, ArcGIS, QGIS, ENVI, Geosoft Oasis montaj, Leapfrog Geo, ioGAS, Datamine Studio, ParaView, Agisoft Metashape"
+
+    Languages:
+      - name: Persian
+        summary: Native
+      - name: English
+        summary: Advanced
+      - name: Arabic
+        summary: Intermediate
+      - name: German
+        summary: Novice
+
+    Interests:
+      - name: Research
+        icon: fa-solid fa-tag
+        keywords: "Data science in mineral exploration, multidimensional prospectivity modelling, exploration geophysics and geochemistry, geodynamic settings of mineralisation, geological remote sensing"

@@ -1,0 +1,22 @@
+# Badge colours for journal abbreviations used in _bibliography/papers.bib
+"Nat. Commun.":
+  url: https://www.nature.com/ncomms/
+  color: "#c0392b"
+"Sci. Adv.":
+  url: https://www.science.org/journal/sciadv
+  color: "#1f4e79"
+"Geology":
+  url: https://pubs.geoscienceworld.org/geology
+  color: "#2e7d32"
+"Tectonics":
+  url: https://agupubs.onlinelibrary.wiley.com/journal/19449194
+  color: "#00695c"
+"PNAS Nexus":
+  url: https://academic.oup.com/pnasnexus
+  color: "#6a1b9a"
+"Remote Sens. Environ.":
+  url: https://www.sciencedirect.com/journal/remote-sensing-of-environment
+  color: "#ef6c00"
+"Ore Geol. Rev.":
+  url: https://www.sciencedirect.com/journal/ore-geology-reviews
+  color: "#8d6e63"
